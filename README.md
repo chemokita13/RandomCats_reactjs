@@ -7,4 +7,4 @@
 ___
 ### Screenshot
 
-<img src='./imgs/img1.png' style=' height:50%'/>
+<img src='./imgs/img.png' style=' height:50%'/>
